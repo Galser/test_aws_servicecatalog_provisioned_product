@@ -1,0 +1,2 @@
+# test_aws_servicecatalog_provisioned_product
+Test for possible bug of error status in test_aws_servicecatalog_provisioned_product 
